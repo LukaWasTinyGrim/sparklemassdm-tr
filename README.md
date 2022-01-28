@@ -1,2 +1,11 @@
-# sparklemassdm-tr
-Mass DM Atmanıza Yarayan Bir Discord Aracı.
+### Sparkle Mass DM Aracı:
+Kolay Arayüzlü Mass DM Aracı ;)
+
+### Şuanki Çalışıp/Çalışmama Testleri:
+- Çalışıyor: `1000%`
+- Çalışmıyor: `0%`
+
+
+|  Aracın SS'i  | 
+| ------------- | 
+| ![image](https://cdn.discordapp.com/attachments/408273027416064001/936430152945115156/unknown.png) |
