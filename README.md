@@ -8,4 +8,4 @@ Kolay Arayüzlü Mass DM Aracı ;)
 
 |  Aracın SS'i  | 
 | ------------- | 
-| ![image](https://cdn.discordapp.com/attachments/408273027416064001/936430152945115156/unknown.png) |
+| ![image](https://cdn.discordapp.com/attachments/408273027416064001/936430491253481533/unknown.png) |
